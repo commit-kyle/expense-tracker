@@ -5,7 +5,7 @@ import './ExpenseFilter.css';
 const ExpensesFilter = props => {
 
   const filterChangeHandler = e => {
-    props.onChangeFilter(e.target.value);
+    props.onFilterChange(e.target.value);
   }
 
   return (

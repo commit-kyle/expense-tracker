@@ -22,6 +22,6 @@ Expense Tracker is created using:
 
 ## Live website
 The link for a live demonstration of how this app works can be found here; 
-[Expense Tracker]()
+[Expense Tracker](https://commit-kyle.github.io/expense-tracker/)
 
 I hope you've enjoyed it!
